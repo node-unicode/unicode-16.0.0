@@ -1,0 +1,1 @@
+module.exports=/[\xB7\u0300\u0306-\u0308\u0313\u0483]|\uD800[\uDF50-\uDF7A]/
