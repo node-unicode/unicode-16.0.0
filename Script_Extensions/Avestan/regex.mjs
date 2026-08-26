@@ -1,0 +1,1 @@
+export default /[\xB7\u2E30\u2E31]|\uD802[\uDF00-\uDF35\uDF39-\uDF3F]/;
