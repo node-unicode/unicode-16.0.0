@@ -1,1 +1,0 @@
-module.exports=/[\)\]\u2E56\u2E58\u2E5A\u2E5C]/
